@@ -1,0 +1,327 @@
+
+
+@font-face {
+  font-family: 'Inter-Semibold';
+  src:url('../fonts/Inter-Semibold.eot?-kwf309');
+  src:url('../fonts/Inter-Semibold.eot?#iefix-kwf309') format('embedded-opentype'),
+    url('../fonts/Inter-Semibold.woff?-kwf309') format('woff'),
+    url('../fonts/Inter-Semibold.ttf?-kwf309') format('truetype'),
+    url('../fonts/Inter-Semibold.svg?-kwf309#AA-Arial') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Inter-Bold';
+  src:url('../fonts/Inter-Bold.eot?-kwf309');
+  src:url('../fonts/Inter-Bold.eot?#iefix-kwf309') format('embedded-opentype'),
+    url('../fonts/Inter-Bold.woff?-kwf309') format('woff'),
+    url('../fonts/Inter-Bold.ttf?-kwf309') format('truetype'),
+    url('../fonts/Inter-Bold.svg?-kwf309#AA-Arial') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+  font-family: 'Inter-Medium';
+  src:url('../fonts/Inter-Medium.eot?-kwf309');
+  src:url('../fonts/Inter-Medium.eot?#iefix-kwf309') format('embedded-opentype'),
+    url('../fonts/Inter-Medium.woff?-kwf309') format('woff'),
+    url('../fonts/Inter-Medium.ttf?-kwf309') format('truetype'),
+    url('../fonts/Inter-Medium.svg?-kwf309#AA-Arial') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter-Regular';
+  src:url('../fonts/Inter-Regular.eot?-kwf309');
+  src:url('../fonts/Inter-Regular.eot?#iefix-kwf309') format('embedded-opentype'),
+    url('../fonts/Inter-Regular.woff?-kwf309') format('woff'),
+    url('../fonts/Inter-Regular.ttf?-kwf309') format('truetype'),
+    url('../fonts/Inter-Regular.svg?-kwf309#AA-Arial') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Antonio-Bold';
+  src:url('../fonts/Antonio-Bold.eot?-kwf309');
+  src:url('../fonts/Antonio-Bold.eot?#iefix-kwf309') format('embedded-opentype'),
+    url('../fonts/Antonio-Bold.woff?-kwf309') format('woff'),
+    url('../fonts/Antonio-Bold.ttf?-kwf309') format('truetype'),
+    url('../fonts/Antonio-Bold.svg?-kwf309#AA-Arial') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Antonio-Regular';
+  src:url('../fonts/Antonio-Regular.eot?-kwf309');
+  src:url('../fonts/Antonio-Regular.eot?#iefix-kwf309') format('embedded-opentype'),
+    url('../fonts/Antonio-Regular.woff?-kwf309') format('woff'),
+    url('../fonts/Antonio-Regular.ttf?-kwf309') format('truetype'),
+    url('../fonts/Antonio-Regular.svg?-kwf309#AA-Arial') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+  
+
+* {
+  box-sizing: border-box;
+}
+
+*::before,
+*::after {
+  box-sizing: border-box;
+
+}
+
+body {
+  font-family: 'Inter-Regular';
+  margin: 0;
+  background: #fff;
+  padding: 0px 0 0 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+input:focus {
+  
+  outline:none;
+}
+
+input {
+  border: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.clear {clear:both;}
+
+.container {
+  padding: 0 16px;
+  max-width: 1952px;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+/*work*/
+
+.work2 {
+  padding: 0 0 350px 0;
+  background: url(../images/bg.png) center;
+  background-size: cover;
+}
+
+.work-logo2 {
+  padding: 0 20px 15px 0;
+  width: 700px;
+  border-right: 17px solid #f1c100;
+}
+
+.work-title2 {
+  padding: 80px 0 0 0;
+  font-family: 'Inter-Bold';
+  font-size: 29px;
+  color: rgb(29, 48, 85);
+  line-height: 31px;
+  text-align: right;
+}
+
+.work-suptitle2 {
+  font-size: 29px;
+  color: rgb(29, 48, 85);
+  line-height: 31px;
+  text-align: right;
+}
+
+.work-img {
+  text-align: center;
+  padding: 100px 0 0 0;
+}
+
+
+
+/*otcswap*/
+
+.otcswap {
+  position: relative;
+  padding: 100px 0;
+  background: url(../images/bg.png) center;
+  background-size: cover;
+}
+
+.otcswap-top {
+  position: relative;
+}
+
+.otcswap-img {
+    top: -20px;
+    position: absolute;
+    left: -23px;
+}
+
+.otcswap-img img {
+  width: 150px;
+}
+
+.otcswap-title {
+    color: #000;
+    font-family: 'Antonio-Bold';
+    font-size: 70px;
+    line-height: 95px;
+    padding: 0 0 0 145px;
+}
+
+.otcswap-suptitle {
+    color: #000;
+    font-family: 'Antonio-Regular';
+    font-size: 56px;
+    line-height: 55px;
+    padding: 0 0 8px 145px;
+    background: #f1c100;
+}
+
+.otcswap-container {
+  max-width: 1400px;
+}
+
+.otcswap-bottom {
+    padding: 100px 0 0 54px;
+    height: 1500px;
+}
+
+.otcswap-block {
+  position: relative;
+  height: 100%;
+  padding: 40px 0 0 40px;
+  border-left: 2px solid #000;
+}
+
+
+.otcswap-elipse-wrap {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  padding: 0 0 0 0;
+}
+
+.simplifies-elipse6 {
+  margin: 0 0 0 15px;
+  background: #0e0c08;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+
+.simplifies-elipse4 {
+  background: #f0c002;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+
+.simplifies-elipse5 {
+  margin: 0 0 0 15px;
+  background: #7e7b78;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+
+
+.otcswap-block-title {
+  font-size: 24px;
+  line-height: 34px;
+  color: #000;
+  font-family: 'Inter-Regular';
+}
+
+
+.red {
+  color: #c20922;
+}
+
+.violet {
+  color: #3f1f77;
+}
+
+.otcswap-block-padding {
+  padding: 30px 0 30px 40px;
+}
+
+.blue {
+  color: #0a3a9d;
+}
+
+.otcswap-block-ul {
+  padding: 30px 0 30px 25px;
+}
+
+.otcswap-block-li {
+  padding: 0 0 0 20px;
+  font-size: 24px;
+  line-height: 34px;
+  color: #000;
+  font-family: 'Inter-Regular';
+  list-style: disc;
+}
+
+.otcswap-block-padding2 {
+  padding: 0 0 0 40px;
+}
+
+.brown {
+  color: #802802;
+}
+
+.otcswap-block-ul2 {
+  padding: 0 0 0 25px;
+}
+
+.otcswap-block-li2 {
+  padding: 0 0 30px 20px;
+  font-size: 24px;
+  line-height: 34px;
+  color: #000;
+  font-family: 'Inter-Regular';
+  list-style: disc;
+}
+
+.otcswap-block-li2 span {
+  font-family: 'Inter-Bold';
+}
+
+.bold {
+  font-family: 'Inter-Bold';
+}
+
+
+.otcswap-block2 {
+  padding: 50px 0 0 0;
+}

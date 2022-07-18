@@ -1,0 +1,450 @@
+
+
+@media screen and (max-width: 1800px) {
+	
+
+	
+
+	
+}
+
+@media screen and (max-width: 1700px) {
+
+	
+	
+
+	
+}
+
+
+@media screen and (max-width: 1600px) {
+	
+
+	
+
+	
+}
+
+
+@media screen and (max-width: 1500px) {
+	
+
+	
+
+	
+}
+
+
+@media screen and (max-width: 1440px) {
+	.work-logo2 {
+	    padding: 0 20px 15px 0;
+	    width: 540px;
+	    border-right: 17px solid #f1c100;
+	}
+
+	.otcswap-elipse-wrap {
+		right: 30px;
+	}
+
+
+
+}
+
+
+
+@media screen and (max-width: 1366px) {
+	
+
+	
+	
+}
+
+@media screen and (max-width: 1350px) {
+	
+}
+
+@media screen and (max-width: 1320px) {
+	
+}
+
+@media screen and (max-width: 1290px) {
+	
+}
+
+@media screen and (max-width: 1230px) {
+	
+}
+
+
+/* стили для md-устройств */
+@media screen and (max-width: 1200px) {
+	.otcswap-title {
+	    color: #000;
+	    font-family: 'Antonio-Bold';
+	    font-size: 50px;
+	    line-height: 70px;
+	    padding: 0 0 0 145px;
+	}
+
+	.otcswap-suptitle {
+	    color: #000;
+	    font-family: 'Antonio-Regular';
+	    font-size: 38px;
+	    line-height: 40px;
+	    padding: 0px 0 6px 145px;
+	    background: #f1c100;
+	}
+
+	.otcswap-img {
+	    top: -20px;
+	    position: absolute;
+	    left: -10px;
+	}
+
+	.otcswap-img img {
+	    width: 120px;
+	}
+
+	.otcswap-block-title {
+	    font-size: 18px;
+	    line-height: 26px;
+	    color: #000;
+	    font-family: 'Inter-Regular';
+	}
+
+	.otcswap-block-li2 {
+	    font-size: 18px;
+	    line-height: 26px;
+	    color: #000;
+	    font-family: 'Inter-Regular';
+	}
+
+	.otcswap-block-li {
+	    font-size: 18px;
+	    line-height: 26px;
+	    color: #000;
+	    font-family: 'Inter-Regular';
+	}
+
+	.work-title2 {
+	    padding: 80px 0 0 0;
+	    font-family: 'Inter-Bold';
+	    font-size: 20px;
+	    color: rgb(29, 48, 85);
+	    line-height: 26px;
+	    text-align: right;
+	}
+
+	.work-suptitle2 {
+	    font-size: 20px;
+	    color: rgb(29, 48, 85);
+	    line-height: 26px;
+	    text-align: right;
+	}
+
+	.work-logo2 {
+	    padding: 0 20px 15px 0;
+	    width: 385px;
+	    border-right: 17px solid #f1c100;
+	}
+	
+
+}
+
+@media screen and (max-width: 1190px) {
+	
+}
+
+@media screen and (max-width: 1170px) {
+	
+}
+
+@media screen and (max-width: 1110px) {
+	
+
+
+  
+}
+
+@media screen and (max-width: 1050px) {
+	
+	
+
+  
+}
+
+
+@media screen and (max-width: 1024px) {
+	
+  
+}
+
+
+
+/* стили для sm-устройств */
+@media screen and (max-width: 992px) {
+	.otcswap-title {
+	    color: #000;
+	    font-family: 'Antonio-Bold';
+	    font-size: 40px;
+	    line-height: 60px;
+	    padding: 0 0 0 145px;
+	}
+  
+}
+
+@media screen and (max-width: 950px) {
+	
+}
+
+@media screen and (max-width: 910px) {
+	
+	
+			
+	
+}
+
+@media screen and (max-width: 850px) {
+	
+}
+
+@media screen and (max-width: 800px) {
+	
+	
+	
+
+}
+
+
+
+/* Ipad*/ 
+@media screen and (max-width: 768px) {
+	.otcswap-title {
+	    color: #000;
+	    font-family: 'Antonio-Bold';
+	    font-size: 30px;
+	    line-height: 50px;
+	    padding: 0 0 0 130px;
+	}
+
+	.otcswap-suptitle {
+	    color: #000;
+	    font-family: 'Antonio-Regular';
+	    font-size: 24px;
+	    line-height: 30px;
+	    padding: 0px 0 4px 130px;
+	    background: #f1c100;
+	}
+
+	.otcswap-block-title {
+	    font-size: 16px;
+	    line-height: 20px;
+	    color: #000;
+	    font-family: 'Inter-Regular';
+	}
+
+	.otcswap-block-li2 {
+	    font-size: 16px;
+	    line-height: 20px;
+	    color: #000;
+	    font-family: 'Inter-Regular';
+	}
+
+	.otcswap-block-li {
+	    font-size: 16px;
+	    line-height: 20px;
+	    color: #000;
+	    font-family: 'Inter-Regular';
+	}
+
+	
+	
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 640px) {
+	.otcswap-img img {
+	    width: 80px;
+	}
+
+	.otcswap-img {
+	    top: -5px;
+	    position: absolute;
+	    left: -10px;
+	}
+
+	.otcswap-title {
+	    color: #000;
+	    font-family: 'Antonio-Bold';
+	    font-size: 26px;
+	    line-height: 40px;
+	    padding: 0 0 0 87px;
+	}
+
+	.otcswap-suptitle {
+	    color: #000;
+	    font-family: 'Antonio-Regular';
+	    font-size: 20px;
+	    line-height: 26px;
+	    padding: 0px 0 4px 87px;
+	    background: #f1c100;
+	}
+
+	.otcswap-bottom {
+		padding: 
+	}
+
+	.otcswap-block {
+		border: none;
+		padding: 0;
+	}
+
+	.otcswap-bottom {
+	    padding: 80px 0 0 0px;
+	    height: 1150px;
+	}
+
+	.work-title2 {
+	    padding: 80px 0 0 0;
+	    font-family: 'Inter-Bold';
+	    font-size: 16px;
+	    color: rgb(29, 48, 85);
+	    line-height: 20px;
+	    text-align: right;
+	}
+
+	.work-logo2 {
+	    padding: 0 20px 15px 0;
+	    width: 315px;
+	    border-right: 17px solid #f1c100;
+	}
+
+	.simplifies-elipse4 {
+		width: 20px;
+		height: 20px;
+	}
+
+	.simplifies-elipse5 {
+		width: 20px;
+		height: 20px;
+	}
+
+	.simplifies-elipse6 {
+		width: 20px;
+		height: 20px;
+	}
+	
+		
+
+}
+
+@media screen and (max-width: 590px) {
+  
+
+
+
+}
+
+
+@media screen and (max-width: 540px) {
+  	
+
+	
+
+
+
+
+}
+
+@media screen and (max-width: 500px) {
+  	
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 480px) {
+
+	.otcswap-bottom {
+	    padding: 80px 0 0 0px;
+	    height: 1300px;
+	}
+
+	.otcswap-block-padding {
+	    padding: 20px 0 20px 10px;
+	}
+
+	.otcswap-block-padding2 {
+	    padding: 0 0 0 10px;
+	}
+
+	.otcswap-suptitle {
+	    margin: 0px 0 0 25px;
+	    color: #000;
+	    font-family: 'Antonio-Regular';
+	    font-size: 20px;
+	    padding: 0px 0 4px 63px;
+	    background: #f1c100;
+	}
+	
+
+
+}
+
+@media screen and (max-width: 460px) {
+  
+
+ 
+}
+
+/* Galaxy*/ 
+@media screen and (max-width: 415px) {
+  	.otcswap-block-title {
+	    font-size: 14px;
+	    line-height: 18px;
+	    color: #000;
+	    font-family: 'Inter-Regular';
+	}
+	
+	.otcswap-block-li {
+	    font-size: 14px;
+	    line-height: 18px;
+	    color: #000;
+	    font-family: 'Inter-Regular';
+	}
+
+	.otcswap-block-li2 {
+	    font-size: 14px;
+	    line-height: 18px;
+	    color: #000;
+	    font-family: 'Inter-Regular';
+	}
+
+	.otcswap-bottom {
+	    padding: 80px 0 0 0px;
+	    height: 1100px;
+	}  	
+
+  	
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 375px) {
+	
+
+	
+
+	
+
+	
+	
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 330px) {
+
+
+	
+
+
+}
